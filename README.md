@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://img.shields.io/github/languages/count/keyvanarasteh/Project?style=flat-square&color=blueviolet" alt="Language Count">
-  <img src="https://img.shields.io/github/languages/top/keyvanarasteh/Project?style=flat-square&color=1e90ff" alt="Top Language">
-  <img src="https://img.shields.io/github/last-commit/keyvanarasteh/Project?style=flat-square&color=ff69b4" alt="Last Commit">
-  <img src="https://img.shields.io/github/license/keyvanarasteh/Project?style=flat-square&color=yellow" alt="License">
+  <img src="https://img.shields.io/github/languages/count/keyvanarasteh/ProjeAdi?style=flat-square&color=blueviolet" alt="Language Count">
+  <img src="https://img.shields.io/github/languages/top/keyvanarasteh/ProjeAdi?style=flat-square&color=1e90ff" alt="Top Language">
+  <img src="https://img.shields.io/github/last-commit/keyvanarasteh/ProjeAdi?style=flat-square&color=ff69b4" alt="Last Commit">
+  <img src="https://img.shields.io/github/license/keyvanarasteh/ProjeAdi?style=flat-square&color=yellow" alt="License">
   <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status">
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions">
 </div>
 
-# Project Name
-*Proje Adı*
+# PROJECT-NAME ingilizce
+*PROJE-ADI Turkce*
 
-A brief, engaging description of your project.  
-*Projenizin kısa ve ilgi çekici bir açıklaması.*
+1-3 satirda projenizin yaptigi islem (EN)  
+*Projenizin kısa ve ilgi çekici bir açıklaması (TR).*
 
 ---
 
@@ -42,7 +42,7 @@ A brief, engaging description of your project.
 ## Roadmap / *Yol Haritası*
 
 See our plans in [ROADMAP.md](ROADMAP.md).  
-*Yolculuğu görmek için [ROADMAP.md](ROADMAP.md) dosyasına göz atın.*
+*Yolculuğu görmek için [ROADMAP.md](ROADMAP.md) dosyasına göz atın.* 
 
 ---
 
@@ -134,11 +134,9 @@ Thanks to:
 
 ## Contact / *İletişim* (Optional)
 
-Project Maintainer: [Your Name/Org Name] - [your.email@example.com]  
+Project Maintainer: [Keyvan Arasteh/Istinye University] - [keyvan.arasteh@istinye.edu.tr]  
 Found a bug? Open an issue.  
 
 *Proje Sorumlusu: [Adınız/Kuruluş Adınız] - [e-posta.adresiniz@ornek.com]. Hata bulursanız bir sorun bildirin.*
 
 ---
-
-*Replace placeholders (e.g., YOUR_USERNAME/YOUR_REPO) with your project details.*
