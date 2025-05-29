@@ -7,8 +7,8 @@
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions">
 </div>
 
-# PROJECT-NAME ingilizce
-*PROJE-ADI Turkce*
+# PROJECT-NAME (EN)
+*PROJE-ADI Turkce* (turkce)
 
 1-3 satirda projenizin yaptigi islem (EN)  
 *Projenizin kısa ve ilgi çekici bir açıklaması (TR).*
@@ -39,6 +39,7 @@
 
 ---
 
+<!--
 ## Roadmap / *Yol Haritası*
 
 See our plans in [ROADMAP.md](ROADMAP.md).  
@@ -97,6 +98,8 @@ python main.py --input your_file.pcap --output results.txt
 3. Çıktıyı kontrol edin (*sonuçları nerede bulacağınızı açıklayın*).
 
 ---
+BUNLARI SONRAKI ADIMLARDA YAPICAGIZ. ;-)
+-->
 
 ## Contributing / *Katkıda Bulunma*
 
@@ -124,9 +127,8 @@ Licensed under the [MIT License](LICENSE.md).
 ## Acknowledgements / *Teşekkürler* (Optional)
 
 Thanks to:  
-- Awesome Library: For enabling X.  
-- Inspiration Source.  
-- Special thanks to...  
+- Keyvan Arasteh (keyvan.arasteh@istinye.edu.tr)
+- Istinye University   
 
 *Teşekkürler: Harika kütüphaneler ve ilham kaynakları için.*
 
@@ -137,6 +139,6 @@ Thanks to:
 Project Maintainer: [Keyvan Arasteh/Istinye University] - [keyvan.arasteh@istinye.edu.tr]  
 Found a bug? Open an issue.  
 
-*Proje Sorumlusu: [Adınız/Kuruluş Adınız] - [e-posta.adresiniz@ornek.com]. Hata bulursanız bir sorun bildirin.*
+*Proje Sorumlusu: [Keyvan Arasteh/Istinye University] - [keyvan.arasteh@istinye.edu.tr]. Hata bulursanız bir sorun bildirin.*
 
 ---
