@@ -1,41 +1,36 @@
 <div align="center">
-  <img src="https://img.shields.io/github/languages/count/keyvanarasteh/ProjeAdi?style=flat-square&color=blueviolet" alt="Language Count">
-  <img src="https://img.shields.io/github/languages/top/keyvanarasteh/ProjeAdi?style=flat-square&color=1e90ff" alt="Top Language">
-  <img src="https://img.shields.io/github/last-commit/keyvanarasteh/ProjeAdi?style=flat-square&color=ff69b4" alt="Last Commit">
-  <img src="https://img.shields.io/github/license/keyvanarasteh/ProjeAdi?style=flat-square&color=yellow" alt="License">
+  <img src="https://img.shields.io/github/languages/count/EfeSidal/Oyuncu-avi-projesi?style=flat-square&color=blueviolet" alt="Language Count">
+  <img src="https://img.shields.io/github/languages/top/EfeSidal/Oyuncu-avi-projesi?style=flat-square&color=1e90ff" alt="Top Language">
+  <img src="https://img.shields.io/github/last-commit/EfeSidal/Oyuncu-avi-projesi?style=flat-square&color=ff69b4" alt="Last Commit">
+  <img src="https://img.shields.io/github/license/EfeSidal/Oyuncu-avi-projesi?style=flat-square&color=yellow" alt="License">
   <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status">
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions">
 </div>
 
-# PROJECT-NAME (EN)
-*PROJE-ADI Turkce* (turkce)
+# Gamer Hunt Project (EN)
+*Oyuncu Avı* (turkce)
 
-1-3 satirda projenizin yaptigi islem (EN)  
-*Projenizin kısa ve ilgi çekici bir açıklaması (TR).*
+In this project, we analyze the network connections of users in some games using wirehark and identify the IP addresses, servers and ports used. (EN)  
+*bu projede bazı oyunlardaki kullanıcıların ağ bağlantılarını wireshark kullanarak analiz edip, kullanılan IP adreslerini, sunucuları ve portları tespit edeceğim. (TR).*
 
 ---
 
 ## Features / *Özellikler*
 
-- **Feature 1:** Description of the feature.  
-  *Özellik 1: Özelliğin açıklaması.*
-- **Feature 2:** Another cool thing it does.  
-  *Özellik 2: Yaptığı başka bir harika şey.*
-- **Feature 3:** One more for good measure.  
-  *Özellik 3: Ve bir tane daha.*
-- Add more as they develop.  
-  *Geliştikçe daha fazla ekleyin.*
+-**1. Gerçek Zamanlı Ağ Trafiği Analizi:
+Proje, Wireshark ile kullanıcıların oynadığı oyunlar sırasında gerçekleşen ağ trafiğini gerçek zamanlı olarak izleyerek, istemci-sunucu arasındaki veri alışverişini analiz eder. Bu sayede hangi IP adreslerinin kullanıldığı, hangi sunuculara bağlanıldığı ve veri iletimi için hangi portların açık olduğu tespit edilir.**
+
+-**2. Oyunlara Özgü Trafik Tanıma:
+Proje, farklı oyunlara özgü ağ davranışlarını ayırt edebilir. Belirli oyunlara ait karakteristik veri paketleri, protokoller veya sunucu bağlantı desenleri tanımlanarak analiz detaylandırılır. Böylece oyunların bağlantı yapılarına dair özgün bilgiler elde edilir.**
+
+-**3. Güvenlik ve Performans Değerlendirmesi:
+Elde edilen IP, port ve sunucu verileriyle, oyunların ağ güvenliği ve performansı hakkında çıkarımlar yapılabilir. Örneğin, oyuncuların hangi ülkedeki sunuculara bağlandığı, bağlantı süresi ve gecikmeler (latency) gibi metrikler üzerinden performans analizi yapılabilir.**
 
 ---
 
 ## Team / *Ekip*
 
-- **219*****031** - Name Surname: *Role or Contribution*  
-  *Ad Soyad: Rolü veya Katkısı*
-- **Another Member** - Name Surname: *Role or Contribution*  
-  *Ad Soyad: Rolü veya Katkısı*
-- Add more members as needed.  
-  *Gerektiğinde daha fazla üye ekleyin.*
+-2420191004 -Efe Sidal: Proje Sahibi/Project Owner
 
 ---
 
@@ -124,21 +119,21 @@ Licensed under the [MIT License](LICENSE.md).
 
 ---
 
-## Acknowledgements / *Teşekkürler* (Optional)
+## Acknowledgements / *Teşekkürler* 
 
 Thanks to:  
-- Keyvan Arasteh (keyvan.arasteh@istinye.edu.tr)
+- Efe Sidal (sidalefe2005@gmail.com)
 - Istinye University   
 
 *Teşekkürler: Harika kütüphaneler ve ilham kaynakları için.*
 
 ---
 
-## Contact / *İletişim* (Optional)
+## Contact / *İletişim* 
 
-Project Maintainer: [Keyvan Arasteh/Istinye University] - [keyvan.arasteh@istinye.edu.tr]  
+Project Maintainer: [Efe Sidal/Istinye University] - [sidalefe2005@gmail.com]  
 Found a bug? Open an issue.  
 
-*Proje Sorumlusu: [Keyvan Arasteh/Istinye University] - [keyvan.arasteh@istinye.edu.tr]. Hata bulursanız bir sorun bildirin.*
+*Proje Sorumlusu: [Efe Sidal/Istinye University] - [sidalefe2005@gmail.com]. Hata bulursanız bir sorun bildirin.*
 
 ---
